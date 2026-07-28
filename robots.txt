@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-ik7bob.hartawin.online/sitemap.xml
